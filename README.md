@@ -45,3 +45,14 @@ A biomedical calculator for the body mass index (BMI) and other parameters.
     - 1a) El paciente introduce un peso o altura igual o menor a cero
     - 1b) El sistema devuelve un mensaje de error
     - 1c) Vuelta al paso 1.
+
+## Historias de usuario
+1. Como usuario, quiero poder ingresar mi altura y peso para calcular mi índice de masa corporal.
+
+2. Como usuario, quiero que se me muestre mi índice de masa corporal e información de lo que significa ese número.
+
+
+
+## Escenarios
+
+1. Un usuario quiere calcular su índice de masa corporal. Abre la calculadora e ingresa su peso y altura. La calculadora muestra su BMI e información de lo que significa ese número.
