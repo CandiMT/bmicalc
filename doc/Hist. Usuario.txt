@@ -1,0 +1,11 @@
+Historias usuario:
+
+Como usuario, quiero poder ingresar mi altura y peso para calcular mi índice de masa corporal.
+
+Como usuario, quiero que se me muestre mi índice de masa corporal e información de lo que significa ese número.
+
+
+
+Escenarios:
+
+Un usuario quiere calcular su índice de masa corporal. Abre la calculadora e ingresa su peso y altura. La calculadora muestra su BMI e información de lo que significa ese número.
