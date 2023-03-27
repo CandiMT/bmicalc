@@ -56,3 +56,11 @@ A biomedical calculator for the body mass index (BMI) and other parameters.
 ## Escenarios
 
 1. Un usuario quiere calcular su índice de masa corporal. Abre la calculadora e ingresa su peso y altura. La calculadora muestra su BMI e información de lo que significa ese número.
+
+
+## Interfaz gráfica
+
+![Boceto interfaz](doc/boceto_interfaz.png)
+
+![Boceto interfaz](doc/captura_interfaz.png)
+
